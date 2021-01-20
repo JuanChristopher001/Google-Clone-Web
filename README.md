@@ -1,2 +1,8 @@
 # Google-Clone-Web
-Web page of the Google clone...
+Casi perfecto clon del famoso y mundial buscador de Google. 
+
+Dicho clon fue realizado de manera educativa, y toda imagen o recurso utilizado en dicho proyecto pertenece a las autoridades pertinentes.
+
+-Juan Christopher
+
+
