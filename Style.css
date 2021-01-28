@@ -185,6 +185,10 @@ footer .footer-right1 {
   justify-self: right;
 }
 
+ul.footer-right {
+    margin-left: 700px;
+}
+
 footer ul li a {
   margin: 1rem;
   color: #5f6368;
