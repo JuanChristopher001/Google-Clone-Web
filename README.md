@@ -1,4 +1,4 @@
-# Google-Clone-Web
+# Google-Clone-Web 🖥️🗺️
 <img src="https://github.com/JuanChristopher001/Google-Clone-Web/blob/main/img/Google%20IMG.png?raw=true">
  
  Clon del famoso y mundial buscador de Google. 
